@@ -49,7 +49,7 @@
 </head>
 <body>
   <script>
-    const AS_URL_BASE = "https://script.google.com/macros/s/AKfycbyLQR4DpvRqZEU34JPnaiOZfuQJMTPLVvnQsWBNlX-Y4TaWACUwcu1xhd5QBKroSq0F7w/exec";
+    const AS_URL_BASE = "https://script.google.com/macros/s/AKfycby9GBPNsFa1aY0gl59FZxhiltbCH5XpZsvYx7phDEMXa84zM1WG0jGhlOmi0iJ-Jvibwg/exec";
     
     var url = document.location.href;
     var k = url.substr(url.lastIndexOf("k=")+2);
@@ -70,6 +70,7 @@
   </script>
   
   <div class="lds-ring"><div></div><div></div><div></div><div></div></div>
-   
+  
+  
 </body>
 </html>
